@@ -1,0 +1,12 @@
+{
+  "account":"warnedwarn",
+  "repository":"https://github.com/warnedwarn/finding-docket",
+  "reviewedSource":"https://github.com/warnedwarn/finding-docket/blob/76c63f93cfbb06665d760629de9a06e62a6f22d8/contracts/contract.py",
+  "sourceCommit":"76c63f93cfbb06665d760629de9a06e62a6f22d8",
+  "sourceSha256":"8db0d0c9931599d3743ab54ed98683a624f294e2987279e3c5f1b2e983f3ed1d",
+  "contractAddress":"0xb5e32d545A7059246744323ce37E803BA7eB6cb1",
+  "explorer":"https://explorer-studio.genlayer.com/address/0xb5e32d545A7059246744323ce37E803BA7eB6cb1",
+  "deploymentTransaction":"0x5359fd7ecd22abd6450d6926622b8dee9fe087672c9eab2c1014489ee8d4c1e5",
+  "liveRecord":"FIND-1791756982",
+  "liveResult":"REASONED"
+}

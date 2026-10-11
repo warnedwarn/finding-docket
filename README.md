@@ -12,3 +12,10 @@ The sample documents are operator-authored fixtures and make no claim of indepen
 genvm-lint contracts/contract.py
 python -m pytest -q
 ```
+
+## StudioNet docket
+
+- Contract: [`0xb5e32d545A7059246744323ce37E803BA7eB6cb1`](https://explorer-studio.genlayer.com/address/0xb5e32d545A7059246744323ce37E803BA7eB6cb1)
+- Reviewed source: [`76c63f9`](https://github.com/warnedwarn/finding-docket/tree/76c63f93cfbb06665d760629de9a06e62a6f22d8)
+- Live docket: `FIND-1791756982`, final state `REASONED`, zero gaps.
+- Verification: finalized, majority agree, successful execution, exact deployed-source match.

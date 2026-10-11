@@ -1,0 +1,43 @@
+{
+  "docketId": "FIND-1791756982",
+  "transactions": {
+    "open": "0x51dbee91d83f1a000429db81b27de065ffcfd422ae78a0ad8373dd0a319a2f3c",
+    "review": "0x95f6c31baa58229e55faa0df27986ba02916eb312ea422cf47cb5d5234e1ed40"
+  },
+  "state": {
+    "decision_url": "https://raw.githubusercontent.com/warnedwarn/finding-docket/76c63f93cfbb06665d760629de9a06e62a6f22d8/evidence/decision.md",
+    "digests": [
+      "38afd6a1cf3fee0c6c12768b867431b5cfa17c37ef1111ef63c87f6c735a6041",
+      "dfbf839be74651127194841e1e86901bedacc2f98219d0313d837874e3d4ef77",
+      "6ff8873c33cbe5af429250e7bf5dbee606b8868b2e361bc0095842d152baedd2"
+    ],
+    "evidence_url": "https://raw.githubusercontent.com/warnedwarn/finding-docket/76c63f93cfbb06665d760629de9a06e62a6f22d8/evidence/packet.md",
+    "findings": [
+      "Immediate structural safety risk exists",
+      "No narrower temporary measure is adequate"
+    ],
+    "gap_indexes": [],
+    "id": "FIND-1791756982",
+    "owner": "0x013A0745a3b2DbF87f4AB377266fCcb7e6eEC88A",
+    "rows": [
+      {
+        "counterevidence_unanswered": false,
+        "decision_addresses": true,
+        "evidence_supports": true,
+        "index": 0,
+        "standard_authorizes": true
+      },
+      {
+        "counterevidence_unanswered": false,
+        "decision_addresses": true,
+        "evidence_supports": true,
+        "index": 1,
+        "standard_authorizes": true
+      }
+    ],
+    "standard_url": "https://raw.githubusercontent.com/warnedwarn/finding-docket/76c63f93cfbb06665d760629de9a06e62a6f22d8/evidence/standard.md",
+    "state": "REASONED",
+    "title": "Community hall closure"
+  },
+  "disclosure": "The standard, decision, and packet are operator-authored technical fixtures."
+}
